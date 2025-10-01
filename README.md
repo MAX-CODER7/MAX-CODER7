@@ -42,8 +42,3 @@
 - AWS Certified Introduction to Generative AI – *Amazon Web Services (AWS)*  
 - Fundamentals of Deep Learning – *NVIDIA*  
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=praneeshln&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=praneeshln&theme=radical&hide_border=false)  
